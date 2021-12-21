@@ -1,2 +1,12 @@
 ### 저장소
-2021-08-30 일부로 새롭게 단장하였습니다~
+[![JJAN's github stats](https://github-readme-stats.vercel.app/api?username=JJAN94&show_icons=true&theme=dracula)](https://github.com/JJAN94)
+
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JJAN94&repo=Python)](https://github.com/JJAN94/Python)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JJAN94&repo=OpenCV)](https://github.com/JJAN94/OpenCV)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJAN94&layout=compact)](https://github.com/JJAN94)
